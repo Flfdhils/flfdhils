@@ -1,0 +1,56 @@
+body{
+  
+}
+.Judul{
+  font-family: Times New Roman;
+  font-size: 35px;
+  margin-top: 10px;
+  text-align: center;
+  word-spacing: 10px;
+  
+}
+#currentTime{
+  font-size: 15px;
+}
+.foto{ size: 100px;
+  margin-left: 30px;
+  border-radius: 0 50px 0 0;
+}
+.datadiri{
+  font-size: 15px;
+  font-family: Monospace;
+word-spacing: 10px;
+}
+.pendidikan{
+  font-family: Times New Roman;
+  font-size: 20px;
+  padding-top: 25px;
+}
+.gmail{background-color: orange;
+  padding: 15px 0 15px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 17px;
+  font-family: Consolas;
+word-spacing: 5px;
+}
+.wa{background-color: lightgreen;
+  padding: 15px 0 15px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 17px;
+  font-family: Consolas;
+word-spacing: 5px;
+}
+.ig{background-color: pink;
+  padding: 15px 0 15px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 17px;
+  font-family: Consolas;
+word-spacing: 5px;
+}
+.logo{
+  size: 10px;
+  
+}
